@@ -1,2 +1,2 @@
 # RSS-Portuguese
-RSS Mod pt-br Translate
+KSP RSS Mod pt-br Translate
